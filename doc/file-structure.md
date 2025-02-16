@@ -1,5 +1,5 @@
 <h1 align="center"> Paths </h1>
-<p align="center"> version:1.1 &nbsp; &nbsp; 2022-Feb-17 </p>
+<p align="center"> version:1.1 &nbsp; &nbsp; 2022-Feb-1aa7 </p>
 
 ## Email Images:
 - **Header Images**: This is the folder contains all email header images, except weekly reports. [/email/images/header](https://github.com/deriv-com/deriv-static-content/tree/master/public/email/images/header)
